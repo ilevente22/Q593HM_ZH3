@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q593HM_ZH3_Form", "Q593HM_ZH3_Form\Q593HM_ZH3_Form.csproj", "{BACD16EF-200C-46FA-9DD0-E31018AF3279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q593HM_ZH3_Web", "Q593HM_ZH3_Web\Q593HM_ZH3_Web.csproj", "{7B2A64D1-235E-4473-A258-72E37F830013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACD16EF-200C-46FA-9DD0-E31018AF3279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACD16EF-200C-46FA-9DD0-E31018AF3279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACD16EF-200C-46FA-9DD0-E31018AF3279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACD16EF-200C-46FA-9DD0-E31018AF3279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2A64D1-235E-4473-A258-72E37F830013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2A64D1-235E-4473-A258-72E37F830013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2A64D1-235E-4473-A258-72E37F830013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2A64D1-235E-4473-A258-72E37F830013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B584DF8-BC1D-4D90-8C99-44E6DFC25792}
+	EndGlobalSection
+EndGlobal
